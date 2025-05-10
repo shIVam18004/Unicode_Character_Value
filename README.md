@@ -21,7 +21,7 @@ This is a simple web-based tool that allows users to input a character and get i
 
 ## 🚀 Live Demo
 
-[Click here to use the tool](https://your-live-demo-link.com) <!-- Optional: Replace with actual link if deployed -->
+[Click here to use the tool](https://shivam18004.github.io/Unicode_Character_Value/) <!-- Optional: Replace with actual link if deployed -->
 
 ---
 
