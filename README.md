@@ -6,8 +6,8 @@ This is a simple web-based tool that allows users to input a character and get i
 
 ## 📸 Preview
 
-![App Screenshot](screenshot.png) <!-- Optional: Replace with your actual image path -->
-
+![App Screenshot](https://github.com/shIVam18004/Unicode_Character_Value/blob/main/img1.png)
+![App Screenshot](https://github.com/shIVam18004/Unicode_Character_Value/blob/main/img2.png)
 ---
 
 ## ✨ Features
@@ -35,12 +35,12 @@ This is a simple web-based tool that allows users to input a character and get i
 
 ## 📂 Project Structure
 
-Unicode_Character_Value/
+`Unicode_Character_Value/
 │
 ├── index.html # Main HTML file
 ├── style.css # Styling
 ├── script.js # JavaScript functionality
-└── README.md # Project description
+└── README.md # Project description`
 
 
 ---
